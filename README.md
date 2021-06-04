@@ -11,5 +11,4 @@
 
 --------
 
-![Metrics](https://metrics.lecoq.io/NicBritz?template=classic&isocalendar=1&languages=1&introduction=1&habits=1&achievements=1&notable=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=percentage&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=Europe%2FLondon)
-
+![Metrics](https://metrics.lecoq.io/NicBritz?template=classic&isocalendar=1&languages=1&introduction=1&notable=1&achievements=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=Europe%2FLondon)

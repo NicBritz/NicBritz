@@ -17,7 +17,7 @@ jobs:
 
           # Options
           user: NicBritz
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
           plugin_achievements: yes

@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**NicBritz/NicBritz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... A online visitor register
 - 🌱 I’m currently learning ... MERN Stack
 - 👯 I’m looking to collaborate on ... MERN Stack projects
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [LinledIn]( https://www.linkedin.com/in/nico-b-2375759a/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I once met and shook hands with Nelson Mandela :)
--->

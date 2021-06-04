@@ -10,8 +10,8 @@
 - ⚡ Fun fact: ... I once met and shook hands with Nelson Mandela :)
 
 --------
-
-![Metrics](https://metrics.lecoq.io/NicBritz?template=classic&isocalendar=1&languages=1&introduction=1&notable=1&achievements=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=Europe%2FLondon)
+<!-- If you're using "main" as default branch -->
+![Metrics](https://github.com/NicBritz/NicBritz/blob/main/github-metrics.svg)
 
 
 

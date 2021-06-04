@@ -1,3 +1,5 @@
+[![Metrics](https://github.com/NicBritz/NicBritz/actions/workflows/Action.yml/badge.svg?branch=main)](https://github.com/NicBritz/NicBritz/actions/workflows/Action.yml)
+
 ### Hi there 👋
 
 - 🌱 I’m currently learning ... MERN Stack

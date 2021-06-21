@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning ... MERN Stack
-- 👯 I’m looking to collaborate on ... MERN Stack or Python projects
+- 🌱 I’m currently learning ... Always Learning
+- 👯 I’m looking to collaborate on ... anything JS or Python projects
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinledIn]( https://www.linkedin.com/in/nico-b-2375759a/)
 - ⚡ Fun fact: ... I met and shook hands with Nelson Mandela :)

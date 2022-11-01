@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning ... Always Learning
+- 🌱 I’m currently learning ... C#
 - 👯 I’m looking to collaborate on ... anything JS or Python projects
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinledIn]( https://www.linkedin.com/in/nico-b-2375759a/)
